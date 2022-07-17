@@ -26,10 +26,17 @@ The dataset files are under "data". Images need to be downloaded and put under t
 
 ## Cite
 ```bash
-@inproceedings{tibva_mami2022,
-  title={{TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes}},
-  author={Hakimov, Sherzod and Cheema, Gullal S. and Ewerth, Ralph},
-  booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
-  year={2022}
+@inproceedings{hakimov-etal-2022-tib,
+    title = "{TIB}-{VA} at {S}em{E}val-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes",
+    author = "Hakimov, Sherzod  and
+      Cheema, Gullal Singh  and
+      Ewerth, Ralph",
+    booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.semeval-1.105",
+    pages = "756--760"
 }
 ```
