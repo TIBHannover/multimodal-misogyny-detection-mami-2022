@@ -5,7 +5,7 @@
 
 ## Publication
 
-[Arxiv version](https://arxiv.org/pdf/2204.06299.pdf)
+[Paper](https://aclanthology.org/2022.semeval-1.105.pdf)
 
 [Presentation recording](https://av.tib.eu/media/57745)
 
