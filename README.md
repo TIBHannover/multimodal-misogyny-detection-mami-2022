@@ -18,6 +18,10 @@ Python (3.7) libraries: clip, torch, numpy, sklearn - "requirements.txt"
 
 The model architecture code is in the file "train_multitask.py"
 
+## Model Output from MAMI 2022
+
+The provided "MAMI_2022_TIB_VA_TaskA_TaskB.tsv" file is the model output for both tasks.
+
 
 ## Dataset
 
